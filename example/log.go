@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/xiiapp/dbs"
+	"github.com/minroute/dbs"
 )
 
 func main() {

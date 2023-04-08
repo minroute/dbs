@@ -1,6 +1,6 @@
 package example
 
-import "github.com/xiiapp/dbs"
+import "github.com/minroute/dbs"
 
 type UserModel struct {
 	dbs.HookFunc

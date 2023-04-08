@@ -6,8 +6,8 @@ package dbs
 import (
 	"strings"
 
-	"github.com/xiiapp/be"
-	"github.com/xiiapp/dbs/helper"
+	"github.com/minroute/be"
+	"github.com/minroute/dbs/helper"
 )
 
 // Like系列抽离出来的公共方法，用于生成Like系列的的表达式

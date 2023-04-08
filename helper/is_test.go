@@ -1,7 +1,17 @@
 // @todo：完善单元测试
 package helper
 
-import "testing"
+import (
+	"fmt"
+	"testing"
+)
+
+func TestPtrSlice(t *testing.T) {
+	s := []string{"Joe1", "%Han", "Eric%"}
+	s2 := IsSlicePtr(s)
+	// s2 := reflect.TypeOf(s).Kind()
+	fmt.Printf("%+v", s2)
+}
 
 func TestIsString(t *testing.T) {
 	if !IsString("a") {

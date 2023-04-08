@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/xiiapp/dbs/helper"
+	"github.com/minroute/dbs/helper"
 )
 
 func TestExpression_Like(t *testing.T) {

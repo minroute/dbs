@@ -96,7 +96,7 @@ func IsSlice(v any) bool {
 
 // IsSlicePtr 判断类型是否是切片指针
 func IsSlicePtr(v any) bool {
-	if reflect.ValueOf(v).Elem().Kind() == reflect.Slice && reflect.TypeOf(v).Kind() == reflect.Ptr {
+	if reflect.TypeOf(v).Kind() == reflect.Ptr && reflect.ValueOf(v).Elem().Kind() == reflect.Slice {
 		return true
 	}
 	return false

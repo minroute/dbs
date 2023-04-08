@@ -1,10 +1,4 @@
-github.com/xiiapp/be v0.0.0-20220717140501-dfe269a6f49e h1:s48+a4jd+PQ/ovtOxP1C+Fn7iXvwMS/VJmv3kpCbaQg=
-github.com/xiiapp/be v0.0.0-20220717140501-dfe269a6f49e/go.mod h1:9FMCcn+hAC8l2gQxkD1/V7cuSmZ6byBX78UN89XQnCk=
-github.com/xiiapp/kit v0.0.0-20220911070116-54f32ad4fde8 h1:uDt+Hk9WpQCob/m18omYdyWnJ5PJnL67yw+FlMLYkvY=
-github.com/xiiapp/kit v0.0.0-20220911070116-54f32ad4fde8/go.mod h1:QosNLIPfkYZNPNO8U7nCd3QjFWLYeNWuCL25gs2ZBFo=
-github.com/xiiapp/kit v0.0.0-20220911120937-cf86e1bb63aa h1:V9tEqI4cTDARBcKw079TSCICF1h1GabqjU17RuEgD3o=
-github.com/xiiapp/kit v0.0.0-20220911120937-cf86e1bb63aa/go.mod h1:QosNLIPfkYZNPNO8U7nCd3QjFWLYeNWuCL25gs2ZBFo=
-github.com/xiiapp/kit v0.0.0-20220912021445-57285a1c510a h1:oEiNVxzrtTFWUGn10EFtHKX1F3Nm/+PBsKsVB2U1tMY=
-github.com/xiiapp/kit v0.0.0-20220912021445-57285a1c510a/go.mod h1:QosNLIPfkYZNPNO8U7nCd3QjFWLYeNWuCL25gs2ZBFo=
-github.com/xiiapp/kit v0.0.0-20220912144235-9fca3c5c2915 h1:8EBHgEJ7BnqadxAr0e9/b/BwTB/1hJSZkTnfb7Vo6tQ=
-github.com/xiiapp/kit v0.0.0-20220912144235-9fca3c5c2915/go.mod h1:QosNLIPfkYZNPNO8U7nCd3QjFWLYeNWuCL25gs2ZBFo=
+github.com/minroute/be v0.0.0-20221213163047-20120c84505c h1:yKPuBaJEDesxVYhjMatFRa7JgsVzFs/2+bnw6DFYkZg=
+github.com/minroute/be v0.0.0-20221213163047-20120c84505c/go.mod h1:1A1ViYyJjmuBmb3EeYUkSdCwwb6Wa9Dd/PUYh5IHmcU=
+github.com/minroute/structure v0.0.0-20221208165458-aa640102902b h1:khgyaUqUDU6newSE+3meB691neo/r14TSBo5uB3orZk=
+github.com/minroute/structure v0.0.0-20221208165458-aa640102902b/go.mod h1:gUGXjC6PKNBjC10Zm+zTZtG7Nri/lN+jU3oVYFgaO6U=

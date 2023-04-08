@@ -3,18 +3,18 @@ package dbs
 import (
 	"database/sql"
 
-	kit "github.com/xiiapp/kit/sctucture/set"
+	structure "github.com/minroute/structure/set"
 )
 
 type Repo struct {
 	WhereExp  string
-	WhereArgs []kit.AnySetCore
+	WhereArgs []structure.AnySetCore
 
 	Having     string
-	HavingArgs []kit.AnySetCore
+	HavingArgs []structure.AnySetCore
 
 	SelectExp  string
-	SelectArgs []kit.AnySetCore
+	SelectArgs []structure.AnySetCore
 }
 
 type Executer interface {

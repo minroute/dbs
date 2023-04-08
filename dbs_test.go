@@ -40,11 +40,11 @@ func TestWhere(t *testing.T) {
 	Where("a", SQL_IsNull)
 	Where("a", SQL_IsNull)
 
-	// // 内置便捷方法
+	// 内置便捷方法
 	// Where(
-	// 	Like("a", "b"),
-	// 	Like("c", "d%"),
-	// 	OrLike("e", "%f"),
+	// Like("a", "b"),
+	// Like("c", "d%"),
+	// OrLike("e", "%f"),
 	// ) // where a like '%b%' and c like 'd%' or e like '%f'
 	//
 	// // 参数方法和非参数方法混合使用
